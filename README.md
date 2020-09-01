@@ -1,1 +1,1 @@
-# githubTest
+# HTML EDM SNIPPETS
